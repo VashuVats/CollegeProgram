@@ -1,0 +1,16 @@
+BASIC LEVEL QUESTIONS 
+1 https://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/
+2 https://www.geeksforgeeks.org/morris-traversal-for-preorder/
+3 https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
+
+MEDIUM LEVEL QUESTIONS 
+1 https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/
+2 https://www.geeksforgeeks.org/flip-binary-tree/
+3 https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
+
+HARD QUESTIONS
+1 https://www.geeksforgeeks.org/sum-numbers-formed-root-leaf-paths/
+2 https://www.geeksforgeeks.org/check-root-leaf-path-given-sequence/
+3 https://www.geeksforgeeks.org/construct-tree-from-ancestor-matrix/
+
+Happy learning :) 
